@@ -1,0 +1,2 @@
+logWarningOnFallback: true
+blankFallbackFormat: '[b][ff88ff]key-${0}[-][/b]'

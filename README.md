@@ -1,5 +1,7 @@
 # EnglishTextFallback
 
+**This mod is obsolete.** Localization support has been improved since I created this mod so it's no longer necessary.
+
 A library mod for [Phantom Brigade (Alpha)](https://braceyourselfgames.com/phantom-brigade/) that will substitute the default English text for strings that are blank after localization or when an entire localization sector is missing.
 
 This mod is primarily for modders who are doing localization work. This mod should not be needed for languages that have the proper localizations.
